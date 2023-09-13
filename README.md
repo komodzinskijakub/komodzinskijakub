@@ -16,7 +16,9 @@ bla bla bla bla
 <img width="48" height="48" src="https://logodix.com/logo/1985547.png" alt="TestRail"/>
 <img width="48" height="48" src="https://img.icons8.com/office/40/selenium-test-automation.png" alt="selenium-test-automation"/>
 <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql_workbench"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/obs-studio.png" alt="obs-studio"/>
 
 </div>
 
