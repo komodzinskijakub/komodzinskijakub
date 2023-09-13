@@ -11,7 +11,9 @@ bla bla bla bla
   ---
 ### ****Contact****:
 
-[<img src='https://img.icons8.com/3d-fluency/135/null/github.png' alt='github' height='40'>](https://github.com/komodzinskijakub)  [<img src='https://img.icons8.com/color/96/null/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/Jakub-Komodzinski/) <a href="mailto:komodzinski.kuba@gmail.com?"><img src='https://img.icons8.com/fluency/48/null/gmail-new.png' alt='gmail' height='40'/></a>
+<a href="mailto:komodzinski.kuba@gmail.com"><img src='https://img.icons8.com/fluency/48/null/gmail-new.png' alt='gmail' height='40'/></a>
+<a href="https://www.linkedin.com/in/Jakub-Komodzinski"><img src='https://img.icons8.com/color/96/null/linkedin-circled--v1.png' alt='linkedin' height='40'/></a>
+<a href="https://github.com/komodzinskijakub"><img src='https://img.icons8.com/3d-fluency/135/null/github.png' alt='github' height='40'/></a>
 
 --- 
 
