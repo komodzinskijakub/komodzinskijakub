@@ -3,8 +3,7 @@ bla bla bla bla
 
 ### ****Tools****:
 
- <img src="https://img.icons8.com/ios/48/2962FF/chrome--v1.png"/>
-<img src="https://img.icons8.com/color/48/null/jira.png"/>  <a href="https://imgbb.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/48/null/git.png"/>
+ <img src="https://img.icons8.com/ios/48/2962FF/chrome--v1.png"/><img src="https://img.icons8.com/color/48/null/jira.png"/>  <a href="https://imgbb.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/48/null/git.png"/>
   <img src="https://img.icons8.com/color/49/null/trello.png"/>
   <img src="https://imgupload.pl/images/2023/01/09/screenpresso-logosdd.png" alt="screenpresso-logosdd.png" borde="0" />
  
