@@ -5,6 +5,14 @@ I'm an aspiring software tester who's just embarking on their career in this fas
 ---
 
 
+### ****Certificates****:
+
+📚 [Certificat - Software tester](https://app.diplomasafe.com/pl-PL/diploma/d5a4ebd80afb445d19807a030e15b4b9f9e1fd142)
+
+
+--- 
+
+
 ### ****Tools****:
 
 <div>
@@ -34,13 +42,6 @@ I'm an aspiring software tester who's just embarking on their career in this fas
 <a href="https://github.com/komodzinskijakub"><img src='https://img.icons8.com/3d-fluency/135/null/github.png' alt='github' height='40'/></a>
 
 </div>
-
---- 
-
-### ****Certificates****:
-
-📚 [Certificat - Software tester](https://app.diplomasafe.com/pl-PL/diploma/d5a4ebd80afb445d19807a030e15b4b9f9e1fd142)
-
 
 ---
 
