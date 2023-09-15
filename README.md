@@ -1,5 +1,6 @@
-# **Hi 👋 Am Jakub**
-bla bla bla bla
+## Hi there! I'm Jakub
+
+I'm an aspiring software tester who's just embarking on their career in this fascinating field. I'm eager to learn and gain experience in the world of testing, and GitHub is the place where I'll be documenting my journey.
 
 ---
 
@@ -38,7 +39,7 @@ bla bla bla bla
 
 ### ****Certificates****:
 
-[Certificat - Software tester](https://app.diplomasafe.com/pl-PL/diploma/d5a4ebd80afb445d19807a030e15b4b9f9e1fd142)
+📚 [Certificat - Software tester](https://app.diplomasafe.com/pl-PL/diploma/d5a4ebd80afb445d19807a030e15b4b9f9e1fd142)
 
 
 ---
