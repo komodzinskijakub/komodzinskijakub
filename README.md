@@ -45,3 +45,5 @@ I'm an aspiring software tester who's just embarking on their career in this fas
 ---
 
 ### ****Projects****:
+
+[Mr Buggy 3](https://github.com/komodzinskijakub/Mr-Buggy-3.git)
